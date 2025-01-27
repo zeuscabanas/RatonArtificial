@@ -1,6 +1,6 @@
 # Raton_Artificial
 
-¡Bienvenido al proyecto Raton_Artificial!
+Uploading Vídeo sin título ‐ Hecho con Clipchamp.mp4…
 
 Este es un proyecto de prueba diseñado para controlar el cursor del ratón a través de visión artificial. Utilizando gestos de mano, podrás mover el cursor y realizar clics. 
 
@@ -30,4 +30,3 @@ Para ejecutar este proyecto, necesitarás:
    python app.py
 
 
-![Captura de pantalla 2025-01-27 095230](https://github.com/user-attachments/assets/b34011dc-9a81-4e4d-b45f-44deea073719)
