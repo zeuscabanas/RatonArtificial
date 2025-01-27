@@ -29,6 +29,6 @@ Para ejecutar este proyecto, necesitarás:
    git clone https://github.com/zeuscabanas/RatonArtificial.git
    cd RatonArtificial
    cd src
-   python app.py
+   python main.py
 
 
