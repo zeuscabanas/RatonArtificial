@@ -1,6 +1,7 @@
 # Raton_Artificial
 
-Uploading Vídeo sin título ‐ Hecho con Clipchamp.mp4…
+![Vídeo sin título ‐ Hecho con Clipchamp](https://github.com/user-attachments/assets/de2ce8c6-88c0-4302-9b9b-273e30777d09)
+
 
 Este es un proyecto de prueba diseñado para controlar el cursor del ratón a través de visión artificial. Utilizando gestos de mano, podrás mover el cursor y realizar clics. 
 
@@ -25,8 +26,9 @@ Para ejecutar este proyecto, necesitarás:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/Raton_Artificial.git
-   cd Raton_Artificial
+   git clone https://github.com/zeuscabanas/RatonArtificial.git
+   cd RatonArtificial
+   cd src
    python app.py
 
 
